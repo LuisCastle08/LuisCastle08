@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Luis Castillo</h1>
 <h3 align="center">A passionate web developer from México</h3>
 
-- 🔭 I’m currently studying [systems engineering](ITVH)
+- 🔭 I’m [systems engineering](ITVH)
 
 - 🌱 I’m currently learning **Dev Mobile and Web**
 
